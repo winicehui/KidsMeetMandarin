@@ -150,9 +150,7 @@ header a:hover{
   width:65%;
 }
 
-#main-col .contact-info p{
-  font-style: italic;
-}
+
 
 #main-col .contact-info {
   padding-top:10px;
@@ -164,6 +162,7 @@ header a:hover{
   float: right;
   width:30%;
   margin-top:10px;
+  align-items: center;
 }
 
 
