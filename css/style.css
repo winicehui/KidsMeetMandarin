@@ -170,9 +170,9 @@ header a:hover{
 /*upcoming*/
 #classes li{
   list-style:none;
-  padding:20px;
+  padding:30px;
   border:#cccccc solid 2px;
-  margin-bottom:5px;
+  margin-bottom:20px;
   background: #e6e6e6;
 
 }
